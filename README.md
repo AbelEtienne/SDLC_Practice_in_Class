@@ -27,8 +27,8 @@ It includes explanations, examples and exercises so that you can **learn by doin
 ### Lists
 - Item 1
 - Item 2
-  - Subtiem 2a
-  - Subtiem 2b
+  - Subitem 2a
+  - Subitem 2b
 
 ---
 
